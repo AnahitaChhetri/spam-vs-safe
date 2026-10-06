@@ -1,5 +1,5 @@
 import requests
-HF_API_KEY="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"
+HF_API_KEY="api_key"
 
 model="facebook/bart-large-mnli"
 api_url=f"https://router.huggingface.co/hf-inference/models/{model}"
